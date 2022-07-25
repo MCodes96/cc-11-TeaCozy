@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: seashell;
+  background-color: black;
+  text-align: center;
+}
+
+main {
+  opacity: 0.9;
+}
