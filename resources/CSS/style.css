@@ -66,7 +66,7 @@ nav a {
   width: 1200px;
   justify-content: center;
   align-items: center;
-  background-image: url('/resources/images/img-mission-background.jpg');
+  background-image: url('./resources/images/img-mission-background.jpg');
 }
 
 .text-container {
@@ -112,7 +112,7 @@ nav a {
 /* Locations */
 
 #locations {
-  background-image: url('/resources/images/img-locations-background.jpg');
+  background-image: url('/./resources/images/img-locations-background.jpg');
   height: 500px;
   width: 1200px;
   margin-top: 70px;
